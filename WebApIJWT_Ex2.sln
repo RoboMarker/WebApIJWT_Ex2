@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApIJWT_Ex2", "WebApIJWT_Ex2\WebApIJWT_Ex2.csproj", "{0D31ABED-5CCA-4B63-AC10-D7BBA49E7EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D31ABED-5CCA-4B63-AC10-D7BBA49E7EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D31ABED-5CCA-4B63-AC10-D7BBA49E7EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D31ABED-5CCA-4B63-AC10-D7BBA49E7EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D31ABED-5CCA-4B63-AC10-D7BBA49E7EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EF7977-3322-42BE-AC9A-4588DE852C3D}
+	EndGlobalSection
+EndGlobal
